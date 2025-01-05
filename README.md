@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Israel
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ANY AMAZING PROJECT
 - 📫 You can reach me on peterisrael.official@gmail.com
 
